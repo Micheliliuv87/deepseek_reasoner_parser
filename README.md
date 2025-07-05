@@ -1,5 +1,3 @@
-Here's the complete README.md in proper Markdown format with improved formatting:
-
 ```markdown
 # Oil & Gas Company Scraper and Analyzer
 
