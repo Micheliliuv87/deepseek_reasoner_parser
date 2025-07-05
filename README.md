@@ -1,4 +1,4 @@
-```markdown
+
 # Oil & Gas Company Scraper and Analyzer
 
 ![Data Pipeline](https://img.shields.io/badge/Pipeline-Scraping%20→%20Analysis-blue)
